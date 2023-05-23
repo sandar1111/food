@@ -24,7 +24,7 @@ const Third = () => {
             text="Якутское мороженое"
           ></Food>
         </div>
-        <div className="flex justify-around">
+        <div className="flex justify-around mb-5">
           <Food
             href="/stroganina"
             img="/stroganina.jpg"
@@ -42,6 +42,26 @@ const Third = () => {
             img="/Kierchekh.JPG"
             header="Кёрчэх"
             text="Якутское лакомство из молока и сливок"
+          ></Food>
+        </div>
+        <div className="flex justify-around">
+          <Food
+            href="/butugas"
+            img="/butugas.jpg"
+            header="Бутугас"
+            text="Якутское блюдо, жидкая похлебка."
+          ></Food>
+          <Food
+            href="/kms"
+            img="/kms.jpg"
+            header="Кымыс"
+            text="Якутский Кисломолочный напиток"
+          ></Food>
+          <Food
+            href="/suorat"
+            img="/suorat.jpg"
+            header="Суорат"
+            text="Представляет собой густой йогурт"
           ></Food>
         </div>
       </div>
