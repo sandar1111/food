@@ -39,7 +39,7 @@ const Third = () => {
           ></Food>
           <Food
             href="/kierchekh"
-            img="/Kierchekh.jpg"
+            img="/Kierchekh.JPG"
             header="Кёрчэх"
             text="Якутское лакомство из молока и сливок"
           ></Food>
